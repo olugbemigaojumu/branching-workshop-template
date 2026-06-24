@@ -3,7 +3,3 @@ def celsius_to_fahrenheit(temp):
     return fahrenheit
 
 
-if __name__ == "__celsius_to_fahrenheit__":
-    celsius_to_fahrenheit()
-
-
