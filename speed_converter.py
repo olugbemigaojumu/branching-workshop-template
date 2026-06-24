@@ -1,5 +1,5 @@
-MILE_TO_KM = 1.60934
+MPS_TO_KMH = 3.6
 
 
 def mps_to_kph(velocity):
-    return velocity * MILE_TO_KM
+    return velocity * MPS_TO_KMH
